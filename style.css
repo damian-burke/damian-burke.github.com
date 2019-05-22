@@ -95,7 +95,7 @@ body:before{width:0px;}
 .profile-social-links{width:100%;display:block;float:none;}
 @-webkit-keyframes materia{0%{background:#E0E0E0;}
 50%{-webkit-border-radius:4px;}
-100%{width:280px;height:440px;background:#FFFFFF;-webkit-border-radius:4px;}
+100%{width:280px;height:360px;background:#FFFFFF;-webkit-border-radius:4px;}
 }
 @keyframes materia{0%{background:#E0E0E0;}
 50%{border-radius:4px;}
